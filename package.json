@@ -77,6 +77,7 @@
     "http-cache-semantics": "4.1.1",
     "tar": "7.5.23",
     "braces": "3.0.3",
-    "micromatch": "4.0.8"
+    "micromatch": "4.0.8",
+    "svgo": "2.8.4"
   }
 }
