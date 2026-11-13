@@ -74,6 +74,7 @@
     "websocket-driver": "0.7.5",
     "nth-check": "2.0.1",
     "flatted": "3.4.2",
-    "http-cache-semantics": "4.1.1"
+    "http-cache-semantics": "4.1.1",
+    "tar": "7.5.23"
   }
 }
