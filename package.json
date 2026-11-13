@@ -68,6 +68,7 @@
     "xml2js": "0.5.0",
     "cookie": "0.7.2",
     "webpack-subresource-integrity": "1.5.1",
-    "@babel/core": "7.29.13"
+    "@babel/core": "7.29.13",
+    "serialize-javascript": "7.1.3"
   }
 }
